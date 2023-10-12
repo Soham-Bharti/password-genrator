@@ -22,6 +22,17 @@ background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);*/
 	min-height: 100vh;
 }
 
+#load{
+    background: #ffffff url(/XOsX.gif) no-repeat center;
+    height: 100vh;
+    width: 100%;
+    background-size: 20%;
+    position: fixed;
+    z-index: 20;
+}
+.d-none{
+    display: none;
+}
 p {
 	margin: 5px 0;
 }
